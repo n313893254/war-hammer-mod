@@ -1,0 +1,11 @@
+child_key	parent_key	initial_descent_tiers	parent_link_position	child_link_position	parent_link_position_offset	child_link_position_offset	visible_in_ui
+#technology_node_links_tables;0;db/technology_node_links_tables/sotek_for_lzd							
+wh3_main_tech_ksl_ostankya_unique_cauldron_1	wh3_main_tech_ksl_ostankya_unique_1_1	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_cauldron_1	wh3_main_tech_ksl_ostankya_unique_1_2	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_cauldron_1	wh3_main_tech_ksl_ostankya_unique_1_3	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_cauldron_2	wh3_main_tech_ksl_ostankya_unique_2_1	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_cauldron_2	wh3_main_tech_ksl_ostankya_unique_2_2	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_cauldron_2	wh3_main_tech_ksl_ostankya_unique_2_3	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_2_1	wh3_main_tech_ksl_ostankya_unique_cauldron_1	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_2_2	wh3_main_tech_ksl_ostankya_unique_cauldron_1	0	3	1	0.0000	0.0000	true
+wh3_main_tech_ksl_ostankya_unique_2_3	wh3_main_tech_ksl_ostankya_unique_cauldron_1	0	3	1	0.0000	0.0000	true

@@ -1,0 +1,4 @@
+key	agent_subtype	agent_type	recovery_time	minimum_level	effects_while_performing
+#ritual_performing_characters_tables;1;db/ritual_performing_characters_tables/sotek_for_lzd					
+oxyotl_teleport			0	0	
+elspeth_teleport			0	0	

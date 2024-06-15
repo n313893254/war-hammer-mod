@@ -1,0 +1,4 @@
+effect	icon	priority	icon_negative	category	is_positive_value_good
+#effects_tables;0;db/effects_tables/sotek_for_lzd					
+wh2_dlc17_disable_artifact_vault		0		campaign	false
+wh2_dlc17_enable_artifact_vault		0		campaign	true

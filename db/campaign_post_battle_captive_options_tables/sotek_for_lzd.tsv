@@ -1,0 +1,3 @@
+id	sort_priority	captive_outcome	campaign_group	effect_bundle	effect_bundle_turns	icon_path	resource_transaction	capturing_force_resource_transaction	men_per_force_resource_transaction	men_per_faction_resource_transaction	men_per_faction_resource_transaction_cap	men_per_force_resource_transaction_cap	audio_override
+#campaign_post_battle_captive_options_tables;6;db/campaign_post_battle_captive_options_tables/sotek_for_lzd													
+1193682847	0	kill	wh_main_captive_option_kill_chaos	wh_main_bundle_captives_kill_chaos	1	icon_kill.png	wh3_main_resource_cost_nur_kill_captives_infections		0	2	0	0	

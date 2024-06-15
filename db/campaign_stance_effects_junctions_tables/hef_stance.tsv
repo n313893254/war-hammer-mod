@@ -1,0 +1,4 @@
+stance	culture	subculture	faction	force_type	effect_bundle	resource_cost
+#campaign_stance_effects_junctions_tables;1;db/campaign_stance_effects_junctions_tables/hef_stance						
+MILITARY_FORCE_ACTIVE_STANCE_TYPE_TUNNELING	wh2_main_hef_high_elves				wh2_dlc10_bundle_stance_army_tunnelling_alith_anar	
+MILITARY_FORCE_ACTIVE_STANCE_TYPE_TUNNELING		wh_main_sc_chs_chaos			wh3_main_bundle_stance_army_tunnelling_tzeentch	wh3_main_tunnel_tze_winds_of_magic

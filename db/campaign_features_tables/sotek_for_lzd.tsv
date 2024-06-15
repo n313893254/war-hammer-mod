@@ -1,0 +1,6 @@
+feature	group	available
+#campaign_features_tables;0;db/campaign_features_tables/sotek_for_lzd		
+diplomatic_manipulation	wh_main_feature_chaos	true
+not_intercepted_on_tunneling	wh_main_feature_chaos	true
+tunnel_attack_characters	wh_main_feature_chaos	true
+tunnel_attack_is_ambush	wh_main_feature_chaos	true

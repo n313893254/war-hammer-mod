@@ -1,0 +1,11 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/sotek_for_lzd								
+wh2_dlc17_disable_artifact_vault			faction	0		true	false	true
+wh2_dlc17_enable_artifact_vault			faction	0		true	false	true
+wh3_main_bundle_seduce_units_bundles_1			faction	1		true	false	true
+wh3_main_bundle_seduce_units_bundles_2			faction	1		true	false	true
+wh3_main_bundle_seduce_units_bundles_3			faction	1		true	false	true
+wh2_dlc20_enable_break_alliance			faction	1		true	false	true
+wh2_dlc20_enable_teleport_stance_feature			faction	0		false	false	true
+wh2_dlc20_disable_teleport_stance_feature			faction	0		false	false	true
+wh3_main_bundle_dae_tzeentch_09		Tzeentch's Boons III	faction	1	daemonic_progression/god_power_tzeentch.png	false	false	true

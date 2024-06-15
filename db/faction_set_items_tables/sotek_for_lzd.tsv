@@ -1,0 +1,5 @@
+id	culture	faction	remove	set	subculture
+#faction_set_items_tables;1;db/faction_set_items_tables/sotek_for_lzd					
+1941108045	wh_main_chs_chaos		true	plague_effect_set_nurgle_negative	
+718987425	wh_main_chs_chaos		false	belakor	
+221448417	wh_main_chs_chaos		false	plague_effect_set_nurgle_positive	
